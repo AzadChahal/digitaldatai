@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/azadchahal/digitaldatai/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/random.ipynb
     - API Reference:
           - digitaldatai module: digitaldatai.md
           - common module: common.md
