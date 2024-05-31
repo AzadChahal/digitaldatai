@@ -14,4 +14,4 @@
 
 ## Features
 
--   TODO
+-   Visualizating digital data
