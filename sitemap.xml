@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://azadchahal.github.io/digitaldatai/</loc>
-         <lastmod>2024-05-31</lastmod>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azadchahal.github.io/digitaldatai/changelog/</loc>
-         <lastmod>2024-05-31</lastmod>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azadchahal.github.io/digitaldatai/common/</loc>
-         <lastmod>2024-05-31</lastmod>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azadchahal.github.io/digitaldatai/contributing/</loc>
-         <lastmod>2024-05-31</lastmod>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azadchahal.github.io/digitaldatai/digitaldatai/</loc>
-         <lastmod>2024-05-31</lastmod>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azadchahal.github.io/digitaldatai/faq/</loc>
-         <lastmod>2024-05-31</lastmod>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azadchahal.github.io/digitaldatai/installation/</loc>
-         <lastmod>2024-05-31</lastmod>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azadchahal.github.io/digitaldatai/usage/</loc>
-         <lastmod>2024-05-31</lastmod>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azadchahal.github.io/digitaldatai/examples/intro/</loc>
-         <lastmod>2024-05-31</lastmod>
+         <lastmod>2024-06-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://azadchahal.github.io/digitaldatai/python_basics/python_basic_lession/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
